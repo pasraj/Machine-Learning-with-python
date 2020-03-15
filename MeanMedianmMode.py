@@ -9,7 +9,7 @@ x = np.mean(speed)
 
 #Median :- The Median value is the value in the middle after the sorted all value
 #Note :- if there are two number in the middle divide the sum of those numbers by two
-y = np.median(speed)\
+y = np.median(speed)
 
 
 #Mode :-  The Mode value is the value that appears the most of times
